@@ -3,7 +3,6 @@
 2. Extract ``vfpsunlocker.zip`` Into A Folder
 3. Run ``vfpsunlocker.exe`` Before You Start FiveM
 4. FPS Will Be Unlocked To Infinite, It Will Also Apply The Best Valorant Settings For FPS!
-5. Virus Total (Check What Anti-Viruses Mark It) [VT](https://www.virustotal.com/gui/file/07f4926da4802f7a2e863b55e4b7252d7c2b850bdc41f776ce5a98ec2c207ba5/detection)
 
 # FAQ
   1. **vfpsunlocker.zip Is Being Detected As A Virus/Malware. What Do I Do?**
